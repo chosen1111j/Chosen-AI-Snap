@@ -1,5 +1,5 @@
 {
   "snap":  ["maddysarp","maddysarn","maddysary","maddysark","maddyfarb"],
-  "insta": ["maddygads","maddygag","maddybbrag","maddydarb","maddyfarm"],
+  "insta": ["maddygads","maddysaker","maddybbrag","maddydarb","maddyfarm"],
   "tele":  ["maddytar","maddysaam","maddypass","maddyfars","maddydark"]
 }
