@@ -1,5 +1,5 @@
 {
-  "snap":  ["maddyrork","maddyseep","maddyperv","maddythos","maddyfark","maddyiko","maddyjes","maddytoor","maddyaqwe","maddytosk","maddyyory","maddyyus","maddyforty","maddytrek ","maddyupu"],
+  "snap":  ["maddyrork","maddyseep","maddyperv","maddythos","maddyyoot","maddyiko","maddyjes","maddytoor","maddyaqwe","maddytosk","maddyyory","maddyasqw","maddydosk","maddytrek ","maddyupu"],
   "insta": ["maddygads","maddydaam","maddydaam","maddygaad","maddygaad"],
   "tele":  ["maddyfarn","maddygon","maddyhars","maddyhars","maddygon"]
 }
